@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sndBtnDown.wav</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sndBtnOver.wav</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sndExplode0.wav</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sndExplode1.wav</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sndLaser.wav</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprBg0.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprBg1.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprBtnPlay.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprBtnPlayDown.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprBtnPlayHover.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprBtnRestart.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprBtnRestartDown.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprBtnRestartHover.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprEnemy0.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprEnemy1.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprEnemy2.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprExplosion.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprLaserEnemy0.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprLaserPlayer.png</File>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprPlayer.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sndBtnDown.wav</SourceFile>
+  <SourceTime>2019-02-12T06:47:06-02:00</SourceTime>
+  <DestFile>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/bin/DesktopGL/sndBtnDown.xnb</DestFile>
+  <DestTime>2023-04-25T13:23:34.7607557-03:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T08:44:56-03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T08:44:56-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
