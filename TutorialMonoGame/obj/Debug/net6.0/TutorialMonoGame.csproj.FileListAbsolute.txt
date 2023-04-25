@@ -43,3 +43,4 @@ E:\Sources\TutorialMonoGame\TutorialMonoGame\bin\Debug\net6.0\Content\sprExplosi
 E:\Sources\TutorialMonoGame\TutorialMonoGame\bin\Debug\net6.0\Content\sprLaserEnemy0.xnb
 E:\Sources\TutorialMonoGame\TutorialMonoGame\bin\Debug\net6.0\Content\sprLaserPlayer.xnb
 E:\Sources\TutorialMonoGame\TutorialMonoGame\bin\Debug\net6.0\Content\sprPlayer.xnb
+E:\Sources\TutorialMonoGame\TutorialMonoGame\bin\Debug\net6.0\Content\arialHeading.xnb

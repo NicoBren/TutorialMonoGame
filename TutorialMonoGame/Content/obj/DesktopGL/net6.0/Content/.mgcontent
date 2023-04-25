@@ -4,6 +4,7 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
+    <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/arialHeading.spritefont</File>
     <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sndBtnDown.wav</File>
     <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sndBtnOver.wav</File>
     <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sndExplode0.wav</File>
@@ -26,6 +27,7 @@
     <File>E:/Sources/TutorialMonoGame/TutorialMonoGame/Content/sprPlayer.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
